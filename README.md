@@ -1,5 +1,5 @@
 # Karen Pearl V. Pabilando
-*Aspiring Software Developer and Cloud Engineer*
+*Full Stack Developer at Arterion Philippines and Software Engineer Intern at Tutorials Dojo*
 
 ## Let's Connect
 Open to collaborations, freelance opportunities, tech organization invites, and discussions or mentorship in software development, cloud engineering, UI/UX design, and cybersecurity.  
