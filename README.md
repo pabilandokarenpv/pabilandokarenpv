@@ -1,79 +1,63 @@
-# Karen Pearl V. Pabilando
-*Full Stack Developer at Arterion Philippines and Software Engineer Intern at Tutorials Dojo*
+<p>
+<img src="assets/header.svg" width="100%" alt="Karen “En” Pearl V. Pabilando — Founder & Software Engineer. Forward Deployed Engineer, Artificial Intelligence Consultant, Magna Cum Laude, Stellar PH100 2026, IEEE Xplore author.">
+</p>
 
-## Let's Connect
-Open to collaborations, freelance opportunities, tech organization invites, and discussions or mentorship in software development, cloud engineering, UI/UX design, and cybersecurity.  
-- **Email:** pabilando.karenpv@gmail.com  
-- **LinkedIn:** [linkedin.com/in/pabilandokarenpv](https://linkedin.com/in/pabilandokarenpv)  
-- **Location:** Manila City, 1008, Philippines  
+<p>
+<a href="mailto:pabilando.karenpv@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email: pabilando.karenpv@gmail.com"></a>
+<a href="https://www.envember.com"><img src="assets/btn-website.svg" height="44" alt="Website: www.envember.com"></a>
+<a href="https://www.linkedin.com/in/pabilandokarenpv"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn: in/pabilandokarenpv"></a>
+</p>
 
-## Tech Stack
-### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="border-radius:50%; background:none;">
+<p>
+<img src="assets/ph100.png" width="100%" alt="I'm part of PH100 2026 — Karen Pearl V. Pabilando, Software Engineer. The PH100 is the annual list of the brightest minds under 30 in the Philippines.">
+</p>
 
-### Frameworks and Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" style="border-radius:50%; background:none;">
+<p>
+<img src="assets/contributions.svg" width="100%" alt="Contribution activity over the last year">
+</p>
 
-### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius:50%; background:none;">
+<p>
+<img src="assets/title-what-i-do.svg" width="100%" alt="What I do">
+</p>
 
-### Tools and Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://img.shields.io/badge/FlutterFlow-000000?style=flat&logo=flutter&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50" style="border-radius:50%; background:none;">
+<p>
+<a href="https://www.whitekernel.com"><img src="assets/role-whitekernel.svg" width="160" alt="Founder of Whitekernel"></a>
+<a href="https://forgirlswhobuild.com/"><img src="assets/role-fgwb.svg" width="160" alt="Co-Founder and CTO of For Girls Who Build PH"></a>
+<img src="assets/role-swe.svg" width="160" alt="Software Engineer">
+<img src="assets/role-fde.svg" width="160" alt="Forward Deployed Engineer">
+<img src="assets/role-ai.svg" width="160" alt="Artificial Intelligence Consultant">
+</p>
 
-### Systems & Security Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> <img src="https://img.shields.io/badge/OPNsense-000000?style=flat&logo=opnsense&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;">
+<p>
+<a href="https://forgirlswhobuild.com/"><img src="assets/featured.svg" width="100%" alt="For Girls Who Build — 645 members across Luzon (561), Visayas (27), and Mindanao (57)."></a>
+</p>
 
-## Research and Conferences
-- **6th International Workshop on Artificial Intelligence and Education** (Tokyo, Japan – September 2024)  
-  - Research Study: “Facilitating Student Election Engagement: A User-Centric Electronic Voting System Application for the National University of Manila”  
-    - Developed a user-centric electronic voting system prototype in Figma to enhance student election participation at National University of Manila, focusing on accessibility, security, and engagement.  
-  - Research Study: “A Comparative Study on Lost and Found Management Systems in Academic Institutions: Assessing Reliability across Universiti Tunku Abdul Rahman, California State Polytechnic University, and Nazareth School of National University”  
-    - Conducted a comparative analysis of lost-and-found management systems and designed a prototype to identify and integrate key features for system improvement at Nazareth School of National University.
+<p>
+<img src="assets/education.svg" width="100%" alt="Magna Cum Laude, Bachelor of Science in Information Technology, Major in Mobile and Web Application">
+</p>
 
-## Certifications and Trainings
-- **Fortinet Certified Associate in Cybersecurity**  
-  <img src="https://img.shields.io/badge/Fortinet-009639?style=flat&logo=fortinet&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> Training Institute, October 2025 – October 2027  
-  - Validated ability to operate and manage essential FortiGate security features.  
-  - Acquired hands-on experience in firewall configuration, network protection, and policy management.  
-  - Demonstrated understanding of threat prevention, VPN setup, and secure network access.  
-  - Strengthened practical knowledge in cybersecurity operations aligned with industry standards.  
+<p>
+<img src="assets/certifications.svg" width="100%" alt="Claude Certified Architect (Foundations), Claude Certified Developer (Foundations), IEEE Xplore published author">
+</p>
 
-- **IT Customer Support Basics**  
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> Networking Academy, October 2025  
-  - Gained foundational knowledge in IT help desk operations and customer service practices.  
-  - Developed skills in remote troubleshooting and using industry-standard support tools.  
-  - Demonstrated effective communication of technical solutions to non-technical users.  
-  - Strengthened problem-solving and client interaction skills for technical support environments.  
+<p>
+<img src="assets/publications.svg" width="100%" alt="Publications at the 2024 6th International Workshop on Artificial Intelligence and Education (WAIE)">
+</p>
 
-- **Fortinet Certified Fundamentals in Cybersecurity**  
-  <img src="https://img.shields.io/badge/Fortinet-009639?style=flat&logo=fortinet&logoColor=white" width="50" height="50" style="border-radius:50%; background:none;"> Training Institute, May 2025 – May 2027  
-  - Completed three core modules: Threat Landscape, Getting Started in Cybersecurity, and Technical Introduction to Cybersecurity.  
-  - Acquired foundational understanding of cyber threats, attacker profiles, and security defense principles.  
-  - Gained practical insights into core cybersecurity operations and network defense techniques.  
-  - Established baseline competencies for entry-level cybersecurity and IT support roles.
+<p>
+<img src="assets/connect.svg" width="100%" alt="Let's connect. Open to collaborations, opportunities, speaking, and mentorship.">
+</p>
 
-## Organizations and Volunteer Work
-- **DEVCON Manila**  
-  VP Memberships Associate, March 2025 – Present  
-  - Assisted in membership management through communications, engagement, and organizational support.  
-  - Represented DEVCON Manila in its Globe partnership and volunteered in booth operations at WOCEE ICP 2025.  
+<p>
+<a href="mailto:pabilando.karenpv@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"></a>
+<a href="https://www.envember.com"><img src="assets/btn-website.svg" height="44" alt="Website"></a>
+<a href="https://www.linkedin.com/in/pabilandokarenpv"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+</p>
 
-- **Amazon Web Services Cloud Club Philippines**  
-  Volunteer Coordinator in BuildHers+ Department, March 2025 – Present  
-  - Coordinated volunteer efforts for AWS Cloud initiatives promoting diversity and inclusion in tech.  
-  - Organized events and workshops to encourage women’s participation in cloud computing.  
+<p>
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Go, Python, JavaScript, Java, C#, Dart, PHP, HTML5, CSS3, React, React Native, Next.js, Node.js, Express, Flutter, Bootstrap, AWS, Kubernetes, Docker, Terraform, OpenTofu, Vercel, Linux, PostgreSQL, MySQL, LangGraph, Figma">
+</p>
 
-- **Amazon Web Services User Group BuildHers+ Philippines**  
-  General Secretary of Operations Committee, February 2025 – Present  
-  - Managed communications and documentation for operations, ensuring smooth event execution.  
-  - Assisted in organizing community outreach programs to empower women in technology.  
-
-- **Amazon Web Services Learning Club – Legarda**  
-  Vice-Chief Operating Officer, August 2024 – August 2025  
-  - Oversaw day-to-day operations, coordinating with members to ensure smooth club activities.  
-  - Organized educational events and learning sessions to foster cloud computing knowledge.  
-
-- **Junior Blockchain Education Consortium of the Philippines**  
-  Operations Committee Specializing in Events, August 2024 – August 2025  
-  - Played a key role in organizing blockchain-focused events and workshops for students.  
-  - Managed event logistics, speaker coordination, and participant engagement for smooth execution.
+<p>
+<img src="assets/organizations.svg" width="100%" alt="Organizations: For Girls Who Build PH, WorkFlow PH, AAP, AWS Learning Club – Legarda, DEVCON Manila, AWS Cloud Club Philippines, AWS User Group BuildHers+ Philippines, GDG on Campus – NU Manila, Junior Blockchain Education Consortium of the Philippines">
+</p>

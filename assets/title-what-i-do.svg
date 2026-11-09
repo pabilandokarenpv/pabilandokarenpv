@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="24" viewBox="0 0 840 24"><foreignObject x="0" y="0" width="840" height="24"><div xmlns="http://www.w3.org/1999/xhtml" class="root" style="width:840px"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+.root{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif;color:#f2f2f3;-webkit-font-smoothing:antialiased;letter-spacing:-.005em;font-size:15px;line-height:1.5}
+.card{position:relative;overflow:hidden;border-radius:22px;border:1px solid rgba(255,255,255,.22);
+  background:linear-gradient(160deg,#1c1c1e 0%,#0c0c0d 45%,#060606 100%);box-shadow:inset 0 1px 0 rgba(255,255,255,.22)}
+.card::after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 40%,rgba(255,255,255,.08) 50%,transparent 60%);
+  transform:translateX(-130%);animation:sheen 8s ease-in-out infinite;pointer-events:none}
+@keyframes sheen{0%,62%{transform:translateX(-130%)}88%,100%{transform:translateX(130%)}}
+@keyframes float{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-10px) rotate(5deg)}}
+.lbl{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#a1a1a6}
+.sec{display:flex;align-items:center;gap:12px;margin-bottom:20px}
+.sec::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,rgba(255,255,255,.22),transparent)}
+.chrome{background:linear-gradient(180deg,#fff 0%,#dadadd 40%,#808086 54%,#eaeaec 72%,#b6b6ba 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.pill{display:inline-block;font-size:13px;padding:6px 13px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);white-space:nowrap}
+.pills{display:flex;flex-wrap:wrap;gap:8px}
+.gi{position:absolute;filter:drop-shadow(0 14px 18px rgba(0,0,0,.55));animation:float 10s ease-in-out infinite}
+.muted{color:#a1a1a6}
+@media (prefers-reduced-motion:reduce){*,*::after{animation:none!important}}
+</style><style>.s{padding:6px 2px 0}.s .lbl{color:#9a9aa0;font-size:12px;font-weight:600}.sec{margin:0}.sec::after{background:linear-gradient(90deg,rgba(150,150,156,.6),transparent)}</style><div class="s"><div class="sec"><span class="lbl">What I do</span></div></div></div></foreignObject></svg>
